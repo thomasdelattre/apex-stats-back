@@ -1,1 +1,1 @@
-web: gunicorn app:apex-stats-back
+web: gunicorn server:app
